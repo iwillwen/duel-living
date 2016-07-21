@@ -1,0 +1,9 @@
+.avoscloud/
+.DS_Store
+node_modules
+!test/node_modules
+.gobble*
+_actual
+coverage
+.commithash
+.idea
