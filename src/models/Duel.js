@@ -11,7 +11,7 @@ class Duel extends EventEmitter {
     super()
 
     this.players = players
-    this.scores = scoresc
+    this.scores = scores
     this.hosts = hosts
     this.status = status
     // Status: 0 - not yet, 1 - playing, 2 - ended
